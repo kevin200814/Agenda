@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="menu_insertar">Nuevo registro</string>
+    <string name="menu_listar">Listar</string>
+
+    <string name="htn_nombre">Ingrese el nombre</string>
+    <string name="htn_telefono">Ingrese el telefono</string>
+    <string name="htn_correo">Ingrese el correo</string>
+</resources>
